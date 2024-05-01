@@ -43,8 +43,6 @@ Create a Chat application for your multiple Models
 
 </details>
 
-Checkout a simple [Demo Application](https://github.com/nabeelfarooqi/chat-demo)
-
 ## Introduction
 
 This package allows you to add a chat system to your Laravel ^5.4 application
